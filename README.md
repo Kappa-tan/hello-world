@@ -1,5 +1,5 @@
 # hello-world
 Testing reposteries
-And other stuff
-I have no idea
+and other stuff
+because I have no idea
 how this is enough
